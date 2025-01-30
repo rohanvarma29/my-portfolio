@@ -39,6 +39,7 @@ function Projects() {
               title="Netflix GPT"
               description="Developed a Netflix UI clone with GPT-powered search as the key functionality, enabling enhanced content discovery. Integrated Firebase for secure authentication and real-time movie data. Designed a Redux store to efficiently manage movies, user data, search results, and settings for seamless performance."
               ghLink="https://github.com/rohanvarma29/netflix-gpt"
+              demoLink="https://cineflixgpt.vercel.app/"
             />
           </Col>
 
