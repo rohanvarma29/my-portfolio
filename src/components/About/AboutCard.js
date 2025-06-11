@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Rohan Varma Gaddam </span>
-            from <span className="purple"> Charlotte, North Carolina, USA.</span>
+            from <span className="purple"> Cupertino, California, USA.</span>
             <br />
             I am currently pursuing my Masters in Information Technology at UNC Charlotte.
             <br />

@@ -47,9 +47,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Eventfolio"
-              description="Created Eventfolio, a web application for managing and showcasing events. Users can browse, create, and track events with a user-friendly interface. Integrated features for event details, registration, and scheduling, offering a seamless experience for both organizers and attendees. Designed with responsive UI for optimal performance across devices."
-              ghLink="https://github.com/rohanvarma29/EventFolio"
+              title="Fit Verse"
+              description="FitVerse is a comprehensive fitness and wellness platform that connects users with certified fitness trainers, nutritionists, and yoga instructors. Built with modern web technologies, FitVerse provides a seamless experience for both fitness professionals and clients."
+              ghLink="https://github.com/rohanvarma29/fit-verse"
+              demoLink="https://fitversed.vercel.app/"
                             
             />
           </Col>
